@@ -10,7 +10,7 @@ This is a cookiecutter template for Python projects. It includes a pre-configure
 pip install cookiecutter
 ```
 
-2. Navigate to your new project directory:
+2. Navigate to your project directory:
 
 3. Add the following line to your project's README.md:
 
