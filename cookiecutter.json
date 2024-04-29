@@ -1,0 +1,7 @@
+{
+    "project_slug": "my_python_project",
+    "module_path": "my_module",
+    "pre_build_command": "touch .env",
+    "docker_image_name": "my_python_project",
+    "compose_file": "docker-compose.yml"
+}
